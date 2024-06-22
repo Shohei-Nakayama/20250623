@@ -1,0 +1,36 @@
+html*{
+	box-sizing: border-box;
+}
+body{
+	margin:0;
+	/* background: url(); */
+	font-family: sans-serif;
+	font-size: 16px;
+}
+
+header{
+	background:#000000;
+}
+.header-container{
+	padding:30px 20px 10px 20px;
+}
+
+nav{
+	background:#000000;
+}
+.nav-container{
+	padding: 0 20px 0 20px;
+}
+
+footer{}
+.footer-container{
+	padding:20px;
+	border-radius:0 0 10px 10px;
+	background:#000000;
+}
+
+main{}
+.main-container{
+	padding:0 0 40px 0;
+	background:#ffffff
+}
